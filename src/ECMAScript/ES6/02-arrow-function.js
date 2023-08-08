@@ -1,3 +1,15 @@
+//Función tradicional
+function nombre (parámetros) {
+    return valorRetornado
+}
+
+//Función flecha
+const nombre = (parámetros) => {
+    return valorRetornado
+}
+
+///////////////////////////////////////////////////////////////////////////////////
+
 // Forma Tradicional
 function square(num){
     return num * num;

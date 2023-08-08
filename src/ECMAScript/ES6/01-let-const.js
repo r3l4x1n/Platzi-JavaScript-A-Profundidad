@@ -13,7 +13,6 @@ animal = 'Cat';
 console.log(animal);
 
 
-
 const fruits = () => {
     if(true){
         var fruit1 = 'Piña'; //Funcion Scope
